@@ -1,5 +1,5 @@
 
-	<--! stylizing the title --> main {
+	/* stylizing the title */ main {
   background: #BBADFD;
   font-size: 40px;
   padding: 3rem;
@@ -7,16 +7,16 @@
   text-align: center;
   margin: 1em auto;
 }
-<--! stylizing the nav bar --> nav {
+/* stylizing the nav bar */ nav {
   background: #D1B0B0;
   padding: 1.5rem;
 }
-<--! stylizing the entire body --> body {
+/* stylizing the entire body */ body {
   text-align: center;
   background: #F8EFE8;
   font-size: 30px;
 }
-	<--! customizing the size of the image --> img {
+/* customizing the size of the image */ img {
 		width: 300px;
 		height: 110px;
 	}
@@ -24,7 +24,7 @@
 		width: 300px;
 		background: #EDECB8;
 		float: left; 
-		margin-left: 11em; <--! how far the item is away from left --> 
+		margin-left: 11em; /* how far the item is away from left */
 		font-size: 25px;
 
 	}
@@ -40,13 +40,13 @@
 		background: #EDECB8;
 		float: right;
 	font-size: 25px;
-		margin-top: 2em; <--! how far the item is away from top-->
+		margin-top: 2em; /* how far the item is away from top */
 		margin-right: 11em;
 	}
 	section {
 		float: left;
 		margin-left: 23em;	
-		margin-top: -11em; <--! brings item further up without adjusting bottom margin -->
+		margin-top: -11em; /* brings item further up without adjusting bottom margin */
 		
 		}
 	
